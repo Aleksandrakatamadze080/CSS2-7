@@ -1,0 +1,120 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#top  {
+   margin: 64px auto;
+}
+
+
+#main {
+    max-width: 1604px;
+    background: #1B0E0F;
+    width: 100%;
+    margin: 0 auto;
+    padding: 96px;
+}
+
+#child {
+    background: #FFF;
+    padding: 94px 0;
+}
+
+#header {
+    width: 1216px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0 32px;
+
+}
+
+#fisrtHead {
+    color: #002AFE;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+#secondHead {
+    color: #181D27;
+    font-size: 48px;
+    margin-bottom: 24px;
+}
+
+#thirdHead {
+    color: #535862;
+    font-size: 20px;
+    margin-bottom: 56px;
+}
+
+#firstLine, #secondLine,  #ThirdLine {
+    width: 1280px;
+    margin: 0 auto;
+}
+
+#secondLineDiv {
+    padding: 56px 0;
+}
+
+#chineseImg, #computerImg, #glassImg{
+    vertical-align: middle;
+    padding-top: 36px;
+}
+
+#firstLineInfoDiv, #secondLineInfoDiv, #thirdLineInfoDiv {
+    width: 540px;
+    text-align: left;
+    margin-left: 96px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#purpleHeadOne, #purpleHeadTwo, #purpleHeadThree {
+    font-size: 14px;
+    color: #6941C6;
+    margin-bottom: 8px;
+}
+
+#blackHeadOne, #blackHeadTwo, #blackHeadThree {
+    color: #181D27;
+    font-size: 24px;
+    margin-bottom: 8px;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+#arrowOne,#arrowTwo, #arrowThree{
+    margin-left: 16px;
+    vertical-align: middle;
+}
+
+#pOne, #pTwo, #pThree {
+    color: #535862;
+    font-size: 16px;
+    margin-bottom: 24px;
+}
+
+#avatarOne, #avatarTwo, #avatarThree{
+    vertical-align: middle;
+}
+
+#nameOne, #nameTwo, #nameThree {
+    color: #181D27;
+    font-size: 14px;
+    
+}
+
+#yearOne, #yearTwo, #yearThree {
+    color: #535862;
+    font-size: 14px;
+   
+}
+
+#nameDivOne, #nameDivTwo, #nameDivThree {
+    display: inline-block;
+    width: 82px;
+    vertical-align: middle;
+    margin-left: 8px;
+}
